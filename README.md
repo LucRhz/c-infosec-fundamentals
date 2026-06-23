@@ -19,12 +19,4 @@ Uma implementação de uma das técnicas de criptografia mais antigas da histór
 * **Estruturas utilizadas:** Variáveis primitivas (`char`, `int`) e operadores aritméticos de soma.
 
 ---
-
-## 🛠️ Como Compilar e Executar
-
-Certifique-se de ter o compilador `gcc` configurado no seu ambiente.
-
-### Compilando os programas:
-```bash
-gcc login.c -o programa_login
-gcc cripto.c -o programa_cripto
+💡 *Projetos acadêmicos desenvolvidos para fixação de estruturas de repetição e condicionais em C.*
